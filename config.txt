@@ -1,0 +1,6 @@
+[hello] 					123  
+[this] 					:)
+[is] 					i love potato
+[a] 					www.google.ca
+[config]						 i like c++
+[parser]			ban java thx
